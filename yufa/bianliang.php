@@ -10,3 +10,6 @@ $x = 5;
 $y = 6;
 $z = $x + $y;
 echo $z;
+echo  "hello";
+echo  "yes";
+
